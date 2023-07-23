@@ -38,6 +38,13 @@ h1 {
     object-fit: cover;
   }
 
+  #Habitica{
+    width: 3em;
+    height: 3em;
+    object-fit: cover;
+    border-radius: 0.5em;
+  }
+
   body{
     font-family: monospace;
     color: rgb(55, 53, 47);
