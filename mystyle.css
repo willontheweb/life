@@ -19,7 +19,7 @@ h1 {
   }
 
   a {
-    border-radius: 0.5em;
+    border-radius: 1em;
     padding: 1em;
     background-color: white;
     border-color: black;
@@ -27,8 +27,8 @@ h1 {
     text-decoration: none;
     display: flex;
     flex-direction: row;
-    margin-top: 0.1em;
-    margin-bottom: 0.1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
     color: rgb(55, 53, 47);
   }
 
