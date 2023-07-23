@@ -33,14 +33,15 @@ h1 {
   }
 
   #Googlecal{
-    width: 3em;
-    height: 3em;
+    width: 4em;
+    height: 4em;
     object-fit: cover;
+    border-radius: 0.5em;
   }
 
   #Habitica{
-    width: 3em;
-    height: 3em;
+    width: 4em;
+    height: 4em;
     object-fit: cover;
     border-radius: 0.5em;
   }
