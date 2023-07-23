@@ -1,3 +1,11 @@
+#bannerimage {
+    width: 100%;
+    background-image: url(http://s30.postimg.org/x0ne0p5wx/bootsrap.png);
+    height: 405px;
+    background-color: purple;
+    background-position: center;
+  }
+
 h1 {
     color: rgb(41, 43, 64);
     font-weight: normal;
