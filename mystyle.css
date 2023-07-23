@@ -27,6 +27,7 @@ h1 {
     text-decoration: none;
     display: flex;
     flex-direction: row;
+    align-items: flex-start;
     margin-top: 4px;
     margin-bottom: 4px;
     color: rgb(55, 53, 47);
