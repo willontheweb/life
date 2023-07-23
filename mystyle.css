@@ -1,14 +1,10 @@
 h1 {
-    color: chocolate;
-    font-size: 1.3em;
+    color: rgb(41, 43, 64);
     font-weight: normal;
   }
   
-  body {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  }
   p {
-    color: darkgreen;
+    color: rgb(70, 70, 31);
   }
   
   em {
