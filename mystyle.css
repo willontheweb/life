@@ -25,6 +25,8 @@ h1 {
     border-color: black;
     border-style: solid;
     text-decoration: none;
+    display: flex;
+    flex-direction: row;
     margin-top: 4px;
     margin-bottom: 4px;
     color: rgb(55, 53, 47);
