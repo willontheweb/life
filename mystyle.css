@@ -60,4 +60,5 @@ h1 {
     margin-right: 0px;
     margin-bottom: 0px;
     overflow: hidden auto;
+    box-sizing: border-box;
   }
