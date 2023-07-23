@@ -21,7 +21,8 @@ h1 {
   a {
     border-radius: 50;
     background-color: white;
-    outline-color: black;
+    border-color: black;
+    border-style: solid;
   }
   body{
     font-family: monospace;
