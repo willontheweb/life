@@ -50,3 +50,14 @@ h1 {
     font-family: monospace;
     color: rgb(55, 53, 47);
   }
+
+  #body{display: flex;
+    flex-direction: column;
+    z-index: 1;
+    flex-grow: 1;
+    position: relative;
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    overflow: hidden auto;
+  }
