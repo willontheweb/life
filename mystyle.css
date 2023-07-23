@@ -53,6 +53,13 @@ h1 {
     border-radius: 0.5em;
   }
 
+  #Dropbox{
+    width: 4em;
+    height: 4em;
+    object-fit: cover;
+    border-radius: 0.5em;
+  }
+
   body{
     font-family: monospace;
     color: rgb(55, 53, 47);
